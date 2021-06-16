@@ -1,0 +1,1 @@
+set GOOGLE_APPLICATION_CREDENTIALS=C:\Users\ZACCARIA\Documents\STAGE\google vision\bboss-315015-589e53c82615.json
